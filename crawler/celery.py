@@ -26,3 +26,4 @@ qfbot.conf.update(
 
 if __name__ == "__main__":
     qfbot.start()
+
